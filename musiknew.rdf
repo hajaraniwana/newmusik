@@ -1,0 +1,99 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:dc="http://purl.org/dc/elements/1.1/" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+         
+    <rdf:Description rdf:about="https://music.com/watch/it's you">
+        <dc:genre>pop</dc:genre>
+        <dc:judul>It's You</dc:judul>
+        <dc:tglrilis>14 Juni 2019</dc:tglrilis>
+        <dc:kategori>RnB/Soul</dc:kategori>
+        <dc:penyanyi>Ali Gatie</dc:penyanyi>
+        <dc:durasi>3:33</dc:durasi>
+        <dc:image>https://i.ytimg.com/vi/3NdKqNzq2-Q/maxresdefault.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.com/watch/lovely">
+        <dc:genre>pop</dc:genre>
+        <dc:judul>Lovely</dc:judul>
+        <dc:tglrilis>19 April 2018</dc:tglrilis>
+        <dc:kategori>Pop</dc:kategori>
+        <dc:penyanyi>Billie Eilish dan Khalid</dc:penyanyi>
+        <dc:durasi>3:21</dc:durasi>
+        <dc:image>https://www3.hiphopde.com/wp-content/uploads/2019/04/Billie-Eilish-Khalid-lovely.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.com/watch/stuckwithyou">
+    <dc:genre>pop</dc:genre>
+        <dc:judul>Stuck With U</dc:judul>
+        <dc:tglrilis>8 Mei 2020</dc:tglrilis>
+        <dc:kategori>Pop</dc:kategori>
+        <dc:penyanyi>Justin Bieber dan Ariana Grande</dc:penyanyi>
+        <dc:durasi>3:49</dc:durasi>
+        <dc:image>https://www.yesthebest.com.ph/wp-content/uploads/2020/06/STUCK-WITH-U.png</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.com/watch/ilikemebetter">
+    <dc:genre>pop</dc:genre>
+        <dc:judul>I Like Me Better</dc:judul>    
+        <dc:tglrilis>19 Mei 2017</dc:tglrilis>
+        <dc:kategori>Pop</dc:kategori>
+        <dc:penyanyi>Lauv</dc:penyanyi>
+        <dc:durasi>3:18</dc:durasi>
+        <dc:image>https://i.pinimg.com/originals/49/52/0f/49520f692671cc28bc73853a3949f81f.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music..com/watch/sayyouwontletgo">
+    <dc:genre>pop</dc:genre>
+        <dc:judul>Say You Won't Let Go</dc:judul>
+        <dc:tglrilis>9 September 2016</dc:tglrilis>
+        <dc:kategori>Pop</dc:kategori>
+        <dc:penyanyi>James Artur</dc:penyanyi>
+        <dc:durasi>3:32</dc:durasi>
+        <dc:image>https://1.bp.blogspot.com/-94USthYG3Ak/WHSyfUU16CI/AAAAAAAAHKI/ovS76ao7x4QBmf7XeOziebRHAyeClMQwgCLcB/s1600/sayyouwontletgo.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.com/watch/saturdaynight">
+    <dc:genre>pop</dc:genre>
+        <dc:judul>Saturday Nights</dc:judul>
+        <dc:tglrilis>19 Oktober 2018</dc:tglrilis>
+        <dc:kategori>RnB/Soul</dc:kategori>
+        <dc:penyanyi>Khalid</dc:penyanyi>
+        <dc:durasi>3:31</dc:durasi>
+        <dc:image>https://images.genius.com/48ca10fe4ca2ae201fa0b0437c13d72c.1000x1000x1.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.com/watch/comethru">
+    <dc:genre>pop</dc:genre>
+        <dc:judul>comethru</dc:judul>
+        <dc:tglrilis>28 November 2018</dc:tglrilis>
+        <dc:kategori>Pop</dc:kategori>
+        <dc:penyanyi>Jeremy Zucker</dc:penyanyi>
+        <dc:durasi>3:02</dc:durasi>
+        <dc:image>https://i.pinimg.com/736x/ac/c4/80/acc480550c52b4204b238ee4f921716d.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.com/watch/treathyoubetter">
+    <dc:genre>pop</dc:genre>
+        <dc:judul>Treat You Better</dc:judul>
+        <dc:tglrilis>12 Juli 2016</dc:tglrilis>
+        <dc:kategori>Pop</dc:kategori>
+        <dc:penyanyi>Shawn Mendes</dc:penyanyi>
+        <dc:durasi>3:08</dc:durasi>
+        <dc:image>http://static.idolator.com/uploads/2016/06/shawn-mendes-treat-you-better-compressed.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music..com/watch/wheniwasyourman">
+    <dc:genre>pop</dc:genre>
+        <dc:judul>When I Was Your Man</dc:judul>
+        <dc:tglrilis>15 Januari 2013</dc:tglrilis>
+        <dc:kategori>Pop</dc:kategori>
+        <dc:penyanyi>Bruno Mars</dc:penyanyi>
+        <dc:durasi>3:34</dc:durasi>
+        <dc:image>https://www.aceshowbiz.com/images/news/bruno-mars-unveils-heart-breaking-new-ballad-when-i-was-your-man.jpg</dc:image>
+    </rdf:Description>
+</rdf:RDF>
+
+ 
+

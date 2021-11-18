@@ -1,0 +1,30 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:v="http://www.w3.org/2006/vcard/">
+
+  <rdf:Description rdf:about="orang" >
+    <dc:nama>Hajarani Syadzwana</dc:nama>
+    <dc:nim>201401082</dc:nim>
+    <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
+    <dc:gambar>https://www.quickanddirtytips.com/education/grammar/people-or-persons</dc:gambar>
+  </rdf:Description>
+    <rdf:Description rdf:about="orang" >
+    <dc:nama>Hajarani Syadzwana</dc:nama>
+    <dc:nim>201401082</dc:nim>
+    <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
+    <dc:gambar>https://www.quickanddirtytips.com/education/grammar/people-or-persons</dc:gambar>
+  </rdf:Description>
+    <rdf:Description rdf:about="orang" >
+    <dc:nama>Hajarani Syadzwana</dc:nama>
+    <dc:nim>201401082</dc:nim>
+    <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
+    <dc:gambar>https://www.quickanddirtytips.com/education/grammar/people-or-persons</dc:gambar>
+  </rdf:Description>
+    <rdf:Description rdf:about="orang" >
+    <dc:nama>Hajarani Syadzwana</dc:nama>
+    <dc:nim>201401082</dc:nim>
+    <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
+    <dc:gambar>https://www.quickanddirtytips.com/education/grammar/people-or-persons</dc:gambar>
+  </rdf:Description>
+
+</rdf:RDF>

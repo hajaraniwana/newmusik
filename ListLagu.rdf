@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:dc="http://purl.org/dc/elements/1.1/" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:mo="http://purl.org/ontology/mo/">
+
+    <rdf:Description rdf:about="https://music.youtube.com/">
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=QZng89VxKWg" /> 
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=V1Pl8CzNzCw" />
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=pE49WK-oNjU" />
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=QqJ-Vp8mvbk" />
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=lY2yjAdbvdQ" />
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=Tr97MQiqW38" />
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=dhYOPzcsbGM" />
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=J6i53rCB0y8" />
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=2Vv-BfVoq4g" />
+      <foaf:know rdf:resource="https://music.youtube.com/watch?v=YrtS8MESh0I" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=QZng89VxKWg">
+        <mo:title> It's You</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/It's%20You%20.mp3</mo:AudioFile>
+        <mo:genre>Pop</mo:genre>
+        <mo:singer>Sezairi Sezali</mo:singer>
+        <mo:img>https://i0.wp.com/ytimg.googleusercontent.com/vi/VahfsXhmgyk/mqdefault.jpg</mo:img>
+        <mo:created>2020</mo:created>
+        <mo:language>English</mo:language>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=V1Pl8CzNzCw">
+        <mo:title> Lovely</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/Billie_Eilish,_Khalid_-_lovely(128kbps).mp3</mo:AudioFile>
+        <mo:genre>Pop</mo:genre>
+        <mo:singer>Billie Eilish dan Khalid</mo:singer>
+        <mo:img>https://www3.hiphopde.com/wp-content/uploads/2019/04/Billie-Eilish-Khalid-lovely.jpg</mo:img>
+        <mo:created>19 April 2018</mo:created>
+        <mo:language>English</mo:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=pE49WK-oNjU">
+        <mo:title>Stuck With U</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/Ariana%20Grande_%20Justin%20Bieber%20-%20Stuck%20with%20U%20(Lyric%20Video)(MP3_70K).mp3</mo:AudioFile>
+        <mo:genre>Pop</mo:genre>
+        <mo:singer>Justin Bieber dan Ariana Grande</mo:singer>
+        <mo:img>https://www.yesthebest.com.ph/wp-content/uploads/2020/06/STUCK-WITH-U.png</mo:img>
+        <mo:created>8 Mei 2020</mo:created>
+        <mo:language>English</mo:language>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=QqJ-Vp8mvbk">
+        <mo:title>Monokrom</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/TULUS%20-%20Monokrom%20(Official%20Music%20Video).mp3</mo:AudioFile>
+        <mo:genre>Pop</mo:genre>
+        <mo:singer>Tulus</mo:singer>
+        <mo:img>https://akcdn.detik.net.id/community/media/visual/2016/08/04/5cd28a7d-0426-489b-ae98-abaed79e3f0b_11.jpg</mo:img>
+        <mo:created>3 Agustus 2016</mo:created>
+        <mo:language>Indonesia</mo:language>
+    </rdf:Description>   
+  
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=lY2yjAdbvdQ">
+        <mo:title>Treat You Better</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/Treat%20You%20Better%20-%20Shawn%20Mendes.mp3</mo:AudioFile>
+        <mo:genre>Pop</mo:genre>
+        <mo:singer>Shawn Mendes</mo:singer>
+        <mo:img>http://static.idolator.com/uploads/2016/06/shawn-mendes-treat-you-better-compressed.jpg</mo:img>
+        <mo:created>12 Juli 2016</mo:created>
+        <mo:language>English</mo:language>
+    </rdf:Description>   
+
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=Tr97MQiqW38">
+        <mo:title>Nothing's Gonna Change My Love for You</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/Westlife%20-%20Nothing's%20Gonna%20Change%20My%20Love%20for%20you.mp3</mo:AudioFile>
+        <mo:genre>R and B</mo:genre>
+        <mo:singer>George Washington Benson</mo:singer>
+        <mo:img>https://en.wikipedia.org/wiki/Nothing%27s_Gonna_Change_My_Love_for_You#/media/File:Nothing's_Gonna_Change_My_Love_for_You_by_George_Benson_German-made_single.png</mo:img>
+        <mo:created>1985</mo:created>
+        <mo:language>English</mo:language>
+    </rdf:Description>     
+
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=dhYOPzcsbGM">
+        <mo:title>On My Way</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/Onmyway.mp3</mo:AudioFile>
+        <mo:genre>Dance/Electronic</mo:genre>
+        <mo:singer>Alan Walker</mo:singer>
+        <mo:img>https://i1.sndcdn.com/artworks-000523641915-lo2qzf-t500x500.jpg</mo:img>
+        <mo:created>2019</mo:created>
+        <mo:language>English</mo:language>
+    </rdf:Description>  
+
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=J6i53rCB0y8">
+        <mo:title>Risalah Hati</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/Dewa%20-%20Risalah%20Hati%20Official%20Video.mp3</mo:AudioFile>
+        <mo:genre>Pop</mo:genre>
+        <mo:singer>Ahmad Dhani</mo:singer>
+        <mo:img>https://asset.kompas.com/crops/u3tDYvFOpXVVC40kZPSASq7XIIM=/0x12:480x332/750x500/data/photo/2020/03/10/5e67148698a15.png</mo:img>
+        <mo:created>2000</mo:created>
+        <mo:language>Indonesia</mo:language>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=2Vv-BfVoq4g">
+        <mo:title>Perfect</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/Ed%20Sheeran%20-%20Perfect%20(lyrics)(MP3_70K).mp3</mo:AudioFile>
+        <mo:genre>Pop</mo:genre>
+        <mo:singer> Ed Sheeran</mo:singer>
+        <mo:img>https://i.ytimg.com/vi/U8HbV9jc6qk/mqdefault.jpg</mo:img>
+        <mo:created>2017</mo:created>
+        <mo:language>English</mo:language>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about="https://music.youtube.com/watch?v=YrtS8MESh0I">
+        <mo:title>Runtuh</mo:title>
+        <mo:AudioFile>https://www.mboxdrive.com/Runtuh.mp3</mo:AudioFile>
+        <mo:genre>Pop</mo:genre>
+        <mo:singer> Feby Putri</mo:singer>
+        <mo:img>https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/10/01/113267005.jpeg</mo:img>
+        <mo:created>1 Oktober 2021</mo:created>
+        <mo:language>Indonesia</mo:language>
+    </rdf:Description> 
+
+
+    

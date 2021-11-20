@@ -25,6 +25,7 @@
         <mo:img>https://i0.wp.com/ytimg.googleusercontent.com/vi/VahfsXhmgyk/mqdefault.jpg</mo:img>
         <mo:created>2020</mo:created>
         <mo:language>English</mo:language>
+        <mo:help>mus1.php</mo:help>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=V1Pl8CzNzCw">

@@ -25,7 +25,7 @@
         <mo:img>https://i0.wp.com/ytimg.googleusercontent.com/vi/VahfsXhmgyk/mqdefault.jpg</mo:img>
         <mo:created>2020</mo:created>
         <mo:language>English</mo:language>
-        <dc:identifier>musphp/mus1.php</dc:identifier>
+        <dc:identifier>mus1.php</dc:identifier>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=V1Pl8CzNzCw">
@@ -36,7 +36,7 @@
         <mo:img>https://i.ytimg.com/vi/oATWfdZHKlU/mqdefault.jpg</mo:img>
         <mo:created>19 April 2018</mo:created>
         <mo:language>English</mo:language>
-        <dc:identifier>musphp/mus2.php</dc:identifier>
+        <dc:identifier>mus2.php</dc:identifier>
     </rdf:Description>
     
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=pE49WK-oNjU">
@@ -47,7 +47,7 @@
         <mo:img>https://www.yesthebest.com.ph/wp-content/uploads/2020/06/STUCK-WITH-U.png</mo:img>
         <mo:created>8 Mei 2020</mo:created>
         <mo:language>English</mo:language>
-        <dc:identifier>musphp/mus3.php</dc:identifier>     
+        <dc:identifier>mus3.php</dc:identifier>     
     </rdf:Description>
 
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=QqJ-Vp8mvbk">
@@ -58,7 +58,7 @@
         <mo:img>https://akcdn.detik.net.id/community/media/visual/2016/08/04/5cd28a7d-0426-489b-ae98-abaed79e3f0b_11.jpg</mo:img>
         <mo:created>3 Agustus 2016</mo:created>
         <mo:language>Indonesia</mo:language>
-        <dc:identifier>musphp/mus4.php</dc:identifier>    
+        <dc:identifier>mus4.php</dc:identifier>    
     </rdf:Description>   
   
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=lY2yjAdbvdQ">
@@ -69,7 +69,7 @@
         <mo:img>http://static.idolator.com/uploads/2016/06/shawn-mendes-treat-you-better-compressed.jpg</mo:img>
         <mo:created>12 Juli 2016</mo:created>
         <mo:language>English</mo:language>
-        <dc:identifier>musphp/mus5.php</dc:identifier>    
+        <dc:identifier>mus5.php</dc:identifier>    
     </rdf:Description>   
 
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=Tr97MQiqW38">
@@ -80,7 +80,7 @@
         <mo:img>https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/12/2150337858.jpg</mo:img>
         <mo:created>1985</mo:created>
         <mo:language>English</mo:language>
-        <dc:identifier>musphp/mus6.php</dc:identifier>     
+        <dc:identifier>mus6.php</dc:identifier>     
     </rdf:Description>     
 
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=dhYOPzcsbGM">
@@ -91,7 +91,7 @@
         <mo:img>https://i1.sndcdn.com/artworks-000523641915-lo2qzf-t500x500.jpg</mo:img>
         <mo:created>2019</mo:created>
         <mo:language>English</mo:language>
-        <dc:identifier>musphp/mus7.php</dc:identifier>    
+        <dc:identifier>mus7.php</dc:identifier>    
     </rdf:Description>  
 
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=J6i53rCB0y8">
@@ -102,7 +102,7 @@
         <mo:img>https://asset.kompas.com/crops/u3tDYvFOpXVVC40kZPSASq7XIIM=/0x12:480x332/750x500/data/photo/2020/03/10/5e67148698a15.png</mo:img>
         <mo:created>2000</mo:created>
         <mo:language>Indonesia</mo:language>
-        <dc:identifier>musphp/mus8.php</dc:identifier>     
+        <dc:identifier>mus8.php</dc:identifier>     
     </rdf:Description> 
 
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=2Vv-BfVoq4g">
@@ -113,7 +113,7 @@
         <mo:img>https://i.ytimg.com/vi/U8HbV9jc6qk/mqdefault.jpg</mo:img>
         <mo:created>2017</mo:created>
         <mo:language>English</mo:language>
-        <dc:identifier>musphp/mus9.php</dc:identifier>    
+        <dc:identifier>mus9.php</dc:identifier>    
     </rdf:Description> 
 
     <rdf:Description rdf:about="https://music.youtube.com/watch?v=YrtS8MESh0I">
@@ -124,7 +124,7 @@
         <mo:img>https://correcto.id/content/images/th1_2021111405081120702.jpg</mo:img>
         <mo:created>1 Oktober 2021</mo:created>
         <mo:language>Indonesia</mo:language>
-        <dc:identifier>musphp/mus10.php</dc:identifier>     
+        <dc:identifier>mus10.php</dc:identifier>     
     </rdf:Description> 
 </rdf:RDF>
 
